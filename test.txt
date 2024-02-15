@@ -1,1 +1,2 @@
 This is checking for github.
+Adding the new line through git bash.
